@@ -1,0 +1,1 @@
+{"version":3,"file":"index.modern.js","sources":["../src/index.js"],"sourcesContent":["import React from 'react'\r\nexport default function DopeEditor() {\r\n  return <p>The Dopest Editor You Ever Editted With</p>\r\n}"],"names":["DopeEditor","React"],"mappings":"8BACwBA,IACtB,OAAOC"}

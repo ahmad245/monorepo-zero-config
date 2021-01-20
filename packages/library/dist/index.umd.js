@@ -1,0 +1,2 @@
+!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("react")):"function"==typeof define&&define.amd?define(["react"],t):(e||self).library=t(e.react)}(this,function(e){function t(e){return e&&"object"==typeof e&&"default"in e?e:{default:e}}var n=t(e);return function(){return n.default.createElement("p",null,"The Dopest Editor You Ever Editted With")}});
+//# sourceMappingURL=index.umd.js.map

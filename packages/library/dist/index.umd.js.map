@@ -1,0 +1,1 @@
+{"version":3,"file":"index.umd.js","sources":["../src/index.js"],"sourcesContent":["import React from 'react'\r\nexport default function DopeEditor() {\r\n  return <p>The Dopest Editor You Ever Editted With</p>\r\n}"],"names":["React"],"mappings":"iWAEE,OAAOA"}

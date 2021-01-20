@@ -1,0 +1,17 @@
+{
+  "name": "Zero-Config-Monorepo",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "demo"
+  ],
+  "scripts": {
+    "start": "lerna run start --parallel"
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1",
+    "microbundle": "^0.13.0"
+  }
+}

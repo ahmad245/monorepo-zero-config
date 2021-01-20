@@ -1,0 +1,14 @@
+{
+  "name": "library",
+  "version": "0.0.0",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "source": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "microbundle watch --jsx React.createElement"
+  },
+  "peerDependencies": {
+    "react": "^17.0.1"
+  }
+}
